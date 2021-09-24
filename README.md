@@ -27,3 +27,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+
+
+For the anaysis, critical thinking was required to determine which codes should be written to extract required information. The Postgres SQL was used to obtain the information which is a useful skill the analyst has one year experience with. 
